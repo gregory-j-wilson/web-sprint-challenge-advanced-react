@@ -18,7 +18,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 [Successful Form Submission](https://tk-assets.lambdaschool.com/90ebefd4-ee0f-4b1c-884c-1336ce87441d_ScreenShot2020-04-30at12.40.56PM.png)
 
-[ ] You will also need to build the two tests in the `CheckoutForm.test.js` file and make sure they are testing what the test title says they are.
+[x] You will also need to build the two tests in the `CheckoutForm.test.js` file and make sure they are testing what the test title says they are.
 
 ### Commits
 
